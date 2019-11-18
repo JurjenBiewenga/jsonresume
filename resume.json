@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Jurjen Biewenga",
+    "label": "Software Engineer",
+    "picture": "./img.jpg",
+    "email": "me@jurjenbiewenga.com",
+    "phone": "+31 658944246",
+    "website": "http://jurjenbiewenga.com",    
+    "summary": "Jurjen Biewenga is a Dutch software engineer with experience in game development, virtual reality, UI development",
+    "location": {
+      "city": "Delft",
+      "countryCode": "NL",
+      "region": "Zuid-Holland"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "JurjenBiewenga",
+        "url": "https://github.com/JurjenBiewenga"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jurjen Biewenga",
+        "url": "https://www.linkedin.com/in/jurjen-biewenga/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CleVR",
+      "position": "Software Engineer",
+      "website": "http://clevr.net",
+      "startDate": "2018-02-15",
+      "summary": "CleVR is a virtual reality software development company focusing on the healthcare sector. CleVR is one of the most innovative companies in healthcare and has developed VR-CBT applications for multiple clients.",
+      "highlights": [
+        "Developed and shipped multiple projects for use in healthcare",
+        "Created tools to improve productivity and software installations"
+      ]
+    },
+    {
+      "company": "Lunosis",
+      "position": "Software Developer",
+      "startDate": "2015-01-01",
+      "summary": "Lunosis is a software developer focusing on VR and VR trainings",
+      "highlights": [
+        "Developed serious games for clients such as Eurosonic, North-West University, and Rijksuniversiteit Groningen",
+        "Developed VR Training simulations for basic safety and maintaining of wind turbines"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Unity Development",
+      "keywords": [
+        "Editor extensions",
+		"3D",
+		"VR"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+		".Net",
+        "WPF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
+}

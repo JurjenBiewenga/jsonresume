@@ -2,11 +2,10 @@
   "basics": {
     "name": "Jurjen Biewenga",
     "label": "Software Engineer",
-    "picture": "./img.jpg",
     "email": "me@jurjenbiewenga.com",
     "phone": "+31 658944246",
     "website": "http://jurjenbiewenga.com",    
-    "summary": "Jurjen Biewenga is a Dutch software engineer with experience in game development, virtual reality, UI development",
+    "summary": "My name is Jurjen Biewenga, I'm a Dutch software engineer with experience in game development, virtual reality, UI development",
     "location": {
       "city": "Delft",
       "countryCode": "NL",

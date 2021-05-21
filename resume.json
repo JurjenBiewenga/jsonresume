@@ -5,7 +5,7 @@
     "email": "me@jurjenbiewenga.com",
     "phone": "+31 658944246",
     "website": "http://jurjenbiewenga.com",    
-    "summary": "My name is Jurjen Biewenga, I'm a Dutch software engineer living in Finland with experience in game development, virtual reality, UI development",
+    "summary": "My name is Jurjen Biewenga, I'm a Dutch software engineer living in Finland with an affinity for tool and game development.",
     "location": {
       "city": "Helsinki",
       "countryCode": "FI",
@@ -30,14 +30,18 @@
       "position": "Tools Programmer",
       "website": "https://www.seriously.com/",
       "startDate": "2020-09-15",
-      "summary": "Seriously is a developer of mobile games for iOS and Android platforms. They combine a world-class creative team with a mobile first experience to develop brands that can make a difference."
+      "summary": "Seriously is a developer of mobile games for iOS and Android platforms. They combine a world-class creative team with a mobile first experience to develop brands that can make a difference.",
+      "highlights": [
+        "Extending our remote content system used by our games to run events and AB tests on all of our users.",
+        "Developing new level editing tools to improve the workflow for QA and Level Designers using automated tracking of playthroughs and automatic simulation of levels "
+      ]
     },
     {
       "company": "CleVR",
       "position": "Software Engineer",
       "website": "http://clevr.net",
       "startDate": "2018-02-15",
-	  "endDate": "2020-08-14",
+	    "endDate": "2020-08-14",
       "summary": "CleVR is a virtual reality software development company focusing on the healthcare sector. CleVR is one of the most innovative companies in healthcare and has developed VR-CBT applications for multiple clients.",
       "highlights": [
         "Developed and shipped multiple projects for use in healthcare",
@@ -48,7 +52,7 @@
       "company": "Lunosis",
       "position": "Software Developer",
       "startDate": "2015-01-01",
-	  "endDate": "2020-08-14",
+	    "endDate": "2020-08-14",
       "summary": "Lunosis is a software developer focusing on VR and VR trainings",
       "highlights": [
         "Developed serious games for clients such as Eurosonic, North-West University, and Rijksuniversiteit Groningen",
